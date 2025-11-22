@@ -9,6 +9,7 @@ This repository contains educational samples and experiments for building a very
   - `minirdb/executor.py`: executes parsed ASTs against the storage layer.
   - `minirdb/cli.py`: a small REPL to run SQL interactively (`python -m minirdb.cli`).
 - `examples/commands.txt` — sample SQL commands for smoke testing.
+- `minillm/` — an ultra-small, dependency-free character-level language model for educational purposes. Run the demo with `python examples/minillm_demo.py` and see `minillm/README.md` for a walkthrough.
 - `MINIRDB_README.md` — short notes explaining the design and usage.
 
 **Quick start**
