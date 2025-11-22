@@ -1,0 +1,12 @@
+-- create table
+CREATE TABLE users (id INT, name TEXT);
+
+-- insert rows
+INSERT INTO users (id, name) VALUES (1, 'Alice');
+INSERT INTO users (id, name) VALUES (2, 'Bob');
+
+-- select all
+SELECT * FROM users;
+
+-- select with where
+SELECT id, name FROM users WHERE name = 'Alice';
