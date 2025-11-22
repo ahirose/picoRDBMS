@@ -1,4 +1,4 @@
-# picoRDBMS
+# minimalRDBMS
 
 This repository contains educational samples and experiments for building a very small, minimal RDBMS implementation named `minirdb`.
 
